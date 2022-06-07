@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
-
 # OneWireNg
 [![Unit tests](https://github.com/pstolarz/OneWireNg/workflows/Unit%20tests/badge.svg?branch=master)](https://github.com/pstolarz/OneWireNg/actions/workflows/ut.yml)
 [![Arduino builds](https://github.com/pstolarz/OneWireNg/workflows/Arduino%20builds/badge.svg?branch=master)](https://github.com/pstolarz/OneWireNg/actions/workflows/ard-builds.yml)
